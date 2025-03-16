@@ -48,10 +48,3 @@ Olá! Meu nome é Victor, tenho 20 anos e sou estudante de Análise e Desenvolvi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorGHss/VictorGHss/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorGHss/VictorGHss/output/github-contribution-grid-snake.svg">
 </picture>
-
-## Contato e Colaborações
-
-Estou sempre aberto a novas oportunidades, feedbacks e colaborações. Se você se interessou pelo meu trabalho ou deseja conversar sobre tecnologia, sinta-se à vontade para entrar em contato!
-
-📧 Email: vg.hss0101@gmail.com  
-🌐 LinkedIn: [Victor Gabriel Hass](https://www.linkedin.com/in/victor-gabriel-hass-05a291336/)

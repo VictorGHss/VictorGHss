@@ -10,6 +10,7 @@ Olá! Meu nome é Victor, tenho 20 anos e sou estudante de Análise e Desenvolvi
 | Instagram    | [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitokkj_/) |
 | Gmail        | [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vg.hss0101@gmail.com) |
 | GitHub       | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorGHss) |
+| Lastfm       | [![Currently listening to](https://lastfm-profile-readme.vercel.app/api/Viteykkj?style=for-the-badge)](https://www.last.fm/user/Viteykkj)
 
 ## Linguagens e Tecnologias
 
@@ -38,10 +39,10 @@ Olá! Meu nome é Victor, tenho 20 anos e sou estudante de Análise e Desenvolvi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGhss&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![VictorGHss's Stats](https://github-readme-stats.vercel.app/api?username=VictorGHss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ### Linguagens Mais Usadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGhss&layout=compact&theme=transparent&bg_color=000&title_color=E94D5F&text_color=FFF)
+![VictorGHss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGHss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorGHss/VictorGHss/output/github-contribution-grid-snake-dark.svg">

@@ -39,7 +39,7 @@ Olá! Meu nome é Victor, tenho 20 anos e sou estudante de Análise e Desenvolvi
 ![VictorGHss's Stats](https://github-readme-stats.vercel.app/api?username=VictorGHss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ### Linguagens Mais Usadas
-![VictorGHss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGHss&theme=tokyonight&show_icons=true&hide_border=true&layout=donut&count_private=true)
+![VictorGHss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGHss&theme=tokyonight&show_icons=true&hide_border=true&layout=donut-vertical&count_private=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorGHss/VictorGHss/output/github-contribution-grid-snake-dark.svg">

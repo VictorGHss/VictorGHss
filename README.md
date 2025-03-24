@@ -31,7 +31,7 @@ Olá! Meu nome é Victor, tenho 20 anos e sou estudante de Análise e Desenvolvi
 
 ### Portfólio Pessoal
 - **Descrição**: Este portfólio foi criado como parte do Bootcamp Bradesco - Java Cloud Native da plataforma DIO.
-- **Tecnologias**: Markdown, GitHub Pages.
+- **Tecnologias**: Markdown, GitHub Actions.
 - **Link**: [GitHub](https://github.com/VictorGHss)
 
 ## GitHub Stats

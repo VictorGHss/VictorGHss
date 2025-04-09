@@ -58,13 +58,10 @@ Olá! Meu nome é **Victor**, tenho 20 anos e sou estudante de **Análise e Dese
 
 ## GitHub Stats
 
-### Visão Geral
 ![VictorGHss's Stats](https://github-readme-stats.vercel.app/api?username=VictorGHss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-### Linguagens Mais Usadas
 ![VictorGHss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGHss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true)
 
-### Contribuições Recentes
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorGHss/VictorGHss/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorGHss/VictorGHss/output/github-contribution-grid-snake.svg">

@@ -7,7 +7,7 @@ Olá! Meu nome é **Victor**, tenho 20 anos e sou estudante de **Análise e Dese
 ## 🌟 Sobre Mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Foco atual: Desenvolvimento em **Java** e **Spring**.
+- 💻 Foco atual: Desenvolvimento em **Java**.
 - 🏢 Estágio em TI: Suporte de TI
 
 ---

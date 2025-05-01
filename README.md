@@ -20,8 +20,6 @@ Olá! Meu nome é **Victor**, tenho 20 anos e sou estudante de **Análise e Dese
 
 ---
 
-## Linguagens e Tecnologias
-
 ### Linguagens de Programação
 <div>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -46,7 +44,7 @@ Olá! Meu nome é **Victor**, tenho 20 anos e sou estudante de **Análise e Dese
 
 ---
 
-###  Ferramentas de Desenvolvimento
+###  IDEs
 <div>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="IntelliJ IDEA" />

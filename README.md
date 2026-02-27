@@ -29,8 +29,8 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [UTFPR](https://www.utfpr.edu.br/).
-- 💼 Atuando como **Estagiário de TI** na Inovare Serviços de Saúde.
-- 🚀 Desenvolvendo ativamente o **CTRLS Forms** e o **CTRLS Payflow** (Java Spring, React, TypeScript, PostgreSQL).
+- 💼 Atuando como **TI** na Inovare Serviços de Saúde.
+- 🚀 Desenvolvendo ativamente o **CTRLS Forms** (Java Spring, React, TypeScript, PostgreSQL).
 - ⚙️ Experiência com integrações de sistemas: Atualmente implementando rotinas no Feegow para salvar formulários médicos em PDF diretamente nos prontuários via busca de CPF.
 - 🌐 Gerencio projetos e infraestrutura no meu próprio domínio (`ctrls.dev.br`) utilizando a segurança da Cloudflare.
 - 🗣️ Pratico meu inglês diariamente consumindo documentações técnicas, jogos e músicas.

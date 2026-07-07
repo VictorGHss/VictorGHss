@@ -95,7 +95,7 @@
 
 ---
 
-### 🎵 Listening Now...
+### 🎵 Ouvindo...
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">

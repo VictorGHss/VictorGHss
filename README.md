@@ -80,15 +80,12 @@
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorGHss&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do VictorGHss" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorGHss&show_icons=true&theme=tokyonight&hide_border=true&v=2026" alt="Estatísticas do VictorGHss" height="180" />
   <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGHss&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGHss&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=2026" alt="Linguagens Mais Usadas" height="180" />
   <br/><br/>
- 
-  <img src="https://streak-stats.demolab.com/?user=VictorGHss&theme=tokyonight&hide_border=true" alt="Sequência de Commits do GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=VictorGHss&theme=tokyonight&hide_border=true&v=2026" alt="Sequência de Commits do GitHub" />
   <br/><br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorGHss/VictorGHss/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorGHss/VictorGHss/output/github-contribution-grid-snake.svg">

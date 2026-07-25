@@ -40,14 +40,14 @@
 ### 🚀 Linha do Tempo de Projetos
 
 *   **2024 — ChamadosChesiquimica:** Meu primeiro rascunho de um ITSM. Feito puramente em HTML/CSS/JS rodando no GitHub Pages, ele usava a API do SheetMonkey para salvar os chamados técnicos dos usuários direto em uma planilha do Google Docs.
-*   **2024 - 2026 (Em evolução) — Inovare-ITSM:** O sistema central da clínica. Curiosidade: a primeira versão rudimentar foi escrita in C (que felizmente foi perdida kkkk). Hoje é uma plataforma em Java Spring Boot, React e PostgreSQL que centraliza:
+*   **2024 - 2026 (Em evolução) — Inovare-ITSM:** O sistema central da clínica. Curiosidade: a primeira versão rudimentar foi escrita em C (que felizmente foi perdida kkkk). Hoje é uma plataforma em Java Spring Boot, React e PostgreSQL que centraliza:
     *   *Integração Conta Azul:* Emissão e conciliação financeira automática de recibos dos médicos com criptografia AES-GCM.
     *   *Integração Feegow + Take Blip:* Sistema síncrono/assíncrono para confirmação de consultas, disparos automáticos em lote para dependentes e reconciliação em Virtual Threads.
     *   *Integração Discord Bot (JDA API):* Bots em Java puro para abertura de chamados e monitoramento de infra via Slash Commands.
-    *   *Milestone Futuro 🚧:* Integração com o hardware das catracas físicas da *Brasil Acesso*.
+    *   *Integração Brasil Acesso (Catracas Físicas):* Comunicação e controle de acesso integrado ao hardware das catracas físicas da clínica.
 *   **2025 — CTRLS Forms (Concluído):** Sistema de formulários enviado pela recepção onde o preenchimento do paciente gera um PDF e faz o anexo automático direto no prontuário do Feegow por CPF. *Spoiler: vai virar módulo do ITSM em breve.*
 *   **2025 — Bootcamp Bradesco & Udemy:** Imersão total em Java e padrões de arquitetura de software para consolidar a base de desenvolvimento.
-*   **2026 — Inovare-Doctors[cite: 2]:** Uma página estilo linktree customizada para os médicos da clínica[cite: 2]. Os pacientes acessam o hub de especialidades tanto pelas redes sociais quanto escaneando QR Codes em cartões de visita físicos[cite: 2].
+*   **2026 — Inovare-Doctors:** Uma página estilo linktree customizada para os médicos da clínica. Os pacientes acessam o hub de especialidades tanto pelas redes sociais quanto escaneando QR Codes em cartões de visita físicos.
 
 ---
 

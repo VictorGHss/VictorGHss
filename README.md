@@ -30,7 +30,7 @@
 
 - 🎓 Estou no **3º período de ADS** na UTFPR (*Universidade Tecnológica Federal do Paraná*).
 - 💼 Trabalho cuidando do ecossistema de desenvolvimento e infraestrutura de TI na Clínica Inovare.
-- 🛡️ **Foco & Futuro em Cybersec:** Sou fascinado por segurança da informação e tenho como principal objetivo de carreira migrar e atuar na área de **Cybersegurança**. Meu plano é direcionar meus estudos acadêmicos para realizar uma **Pós-Graduação em Cybersegurança / Segurança da Informação**, unindo desenvolvimento seguro (DevSecOps), infraestrutura e proteção de dados.
+- 🛡️ **Foco & Futuro em Cybersec:** Gosto muito da área de segurança da informação e tenho como principal objetivo de carreira migrar e atuar na área de **Cybersegurança**. Meu plano é direcionar meus estudos acadêmicos para realizar uma **Pós-Graduação em Cybersegurança / Segurança da Informação**, unindo desenvolvimento seguro (DevSecOps), infraestrutura e proteção de dados.
 - 🛠️ **Origem no código:** Tive meu primeiro contato com programação lá em 2018-2019 de forma totalmente autodidata, desmontando e modificando APKs de WhatsApp Android (os clássicos GB WhatsApp, Yo WhatsApp, etc.).
 - 🏠 **HomeServer:** Rodo, testo e hospedo todos os meus sistemas e deploys em um PC antigo que transformei em servidor caseiro, gerenciando tudo de forma segura através de túneis da Cloudflare no meu domínio pessoal `ctrls.dev.br`.
 - 🎵 **Música & Idiomas:** Sou fascinado por música e uso meu consumo diário de faixas e letras para praticar e destravar meu inglês. Nas horas vagas, também estudo de forma independente os fundamentos da gramática e escrita do Russo (*Изучаю русский язык*).

@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Olá!%20Eu%20sou%20o%20Victor%20Gabriel&fontSize=30&animation=fadeIn&fontAlignY=35&desc=Dev+Back-end+%7C+Java+Spring+%7C+React+%7C+Estudante+UTFPR&descAlignY=60&descAlign=62&fontColor=ffffff" alt="Header Automático" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Back-end+Developer;Desenvolvendo+o+Inovare+ITSM;Desenvolvi+o+CTRLS-FORMS;Ex+Whatsapp+Modder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Back-end+Developer;Futuro+P%C3%B3s-Graduando+em+Cybersec;Desenvolvendo+o+Inovare+ITSM;Ex+Whatsapp+Modder" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -30,6 +30,7 @@
 
 - 🎓 Estou no **3º período de ADS** na UTFPR (*Universidade Tecnológica Federal do Paraná*).
 - 💼 Trabalho cuidando do ecossistema de desenvolvimento e infraestrutura de TI na Clínica Inovare.
+- 🛡️ **Foco & Futuro em Cybersec:** Sou fascinado por segurança da informação e tenho como principal objetivo de carreira migrar e atuar na área de **Cybersegurança**. Meu plano é direcionar meus estudos acadêmicos para realizar uma **Pós-Graduação em Cybersegurança / Segurança da Informação**, unindo desenvolvimento seguro (DevSecOps), infraestrutura e proteção de dados.
 - 🛠️ **Origem no código:** Tive meu primeiro contato com programação lá em 2018-2019 de forma totalmente autodidata, desmontando e modificando APKs de WhatsApp Android (os clássicos GB WhatsApp, Yo WhatsApp, etc.).
 - 🏠 **HomeServer:** Rodo, testo e hospedo todos os meus sistemas e deploys em um PC antigo que transformei em servidor caseiro, gerenciando tudo de forma segura através de túneis da Cloudflare no meu domínio pessoal `ctrls.dev.br`.
 - 🎵 **Música & Idiomas:** Sou fascinado por música e uso meu consumo diário de faixas e letras para praticar e destravar meu inglês. Nas horas vagas, também estudo de forma independente os fundamentos da gramática e escrita do Russo (*Изучаю русский язык*).

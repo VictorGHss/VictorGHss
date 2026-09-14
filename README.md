@@ -1,25 +1,29 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Olá!%20Eu%20sou%20o%20Victor%20Gabriel&fontSize=30&animation=fadeIn&fontAlignY=35&desc=Dev+Back-end+%7C+Java+Spring+%7C+React+%7C+UTFPR&descAlignY=60&descAlign=62&fontColor=ffffff" alt="Header Automático" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Olá!%20Eu%20sou%20o%20Victor%20Gabriel&fontSize=30&animation=fadeIn&fontAlignY=35&desc=Software+Developer+%7C+Java+Spring+%7C+React+%7C+UTFPR&descAlignY=60&descAlign=62&fontColor=ffffff" alt="Header Automático" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Back-end+Developer;Java+%26+Spring+Boot;Arquitetura+%26+Integra%C3%A7%C3%B5es;Entusiasta+de+DevSecOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Back-end+Developer;Java+%26+Spring+Boot;APIs+REST+%7C+Docker+%7C+Redis;Entusiasta+de+DevSecOps" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/victorghss" target="_blank">
+    <a href="https://www.linkedin.com/in/victor-gabriel-hass-05a291336/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:victor.gabriel.hass@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+    <a href="mailto:vg.hss0101@icloud.com">
+      <img src="https://skillicons.dev/icons?i=apple" alt="iCloud Mail" height="40" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/vito_hss/" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
     </a> 
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Disponível_para_Oportunidades-success?style=for-the-badge&logo=target" alt="Status" />
   </p>
 
 </div>
@@ -29,22 +33,30 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na UTFPR (*Universidade Tecnológica Federal do Paraná*).
-- ⚙️ **Foco de Atuação:** Desenvolvimento Back-end com **Java (Spring Boot)**, criação de APIs RESTful resilientes, microsserviços, mensageria e automação de processos corporativos.
-- 🛡️ **Cybersegurança & DevSecOps:** Interesse ativo em segurança da informação, arquitetura segura, autenticação/autorização robusta (OAuth2, JWT, RBAC) e proteção de dados em conformidade com a LGPD.
-- 🐧 **Infraestrutura & Linux:** Gerencio meu próprio *Home Server* em Linux com deploy containerizado em Docker, automações e exposição segura via Cloudflare Tunnels.
+- ⚙️ **Foco de Atuação:** Desenvolvimento Back-end com **Java (Spring Boot)**, arquitetura orientada a serviços, mensageria assíncrona, microsserviços e APIs RESTful seguras.
+- 🛡️ **DevSecOps & Segurança:** Aplicação prática de autenticação robusta (OAuth2, JWT, RBAC), controle de fluxo contra abusos (Rate Limiting) e conformidade com privacidade de dados (LGPD).
+- 🐧 **Linux & Infra:** Gerenciamento de Home Server Linux com deploy de microsserviços em Docker e publicação protegida via Cloudflare Tunnels.
 
 ---
 
-### 🚀 Principais Projetos
+### 🚀 Projeto em Destaque
 
-* **[CTRLS-ITSM](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE):** Plataforma em **Java (Spring Boot)**, **PostgreSQL** e **Docker** voltada para integração de sistemas e eliminação de processos manuais:
-  * **Mensageria & Automação:** Orquestração assíncrona entre ERP e WhatsApp (Take Blip) para confirmações ativas de agendamentos (+10.000 mensagens processadas em produção).
-  * **IoT & Portaria:** Integração com controle de acesso físico gerando QR Codes temporários para liberação autônoma de catracas (+1.700 acessos).
-  * **Resiliência:** Rate limiting com Redis, retries de webhooks e triagem de chamados integrada a bots no Discord via JDA.
+**[CTRLS-ITSM — Integração de Sistemas & Engenharia Backend](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE)**  
+Plataforma corporativa desenhada para orquestrar integrações entre ERPs legados, mensageria e controle físico de acesso, eliminando gargalos operacionais críticos:
 
-* **CTRLS-Forms:** SaaS multi-tenant em **Spring Boot 3** e **React com TypeScript** para geração dinâmica de questionários e prontuários médicos, gerando relatórios em PDF com anexação automática via API.
+* **Escala Real:** Mais de **10.000 mensagens assíncronas** transacionadas (WhatsApp/Take Blip) e **+1.700 acessos físicos** via QR Codes dinâmicos em catracas.
+* **Resiliência Backend:** Controle de taxa de chamadas com **Redis**, processamento concorrente desacoplado e monitoramento automatizado de incidentes com Discord Bots (JDA).
+* 📑 **Documentação Técnica Disponível:**
+  * [Arquitetura & Fluxo de Dados](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE/blob/main/docs/ARCHITECTURE.md)[cite: 1]
+  * [Especificação OpenAPI / Swagger](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE/blob/main/docs/openapi.yaml)[cite: 1]
+  * [Relatório de Desenvolvimento & Post-Mortem](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE/blob/main/docs/RELATORIO_DESENVOLVIMENTO_E_POSTMORTEM.md)[cite: 1]
 
-* **Doctors Hub:** Plataforma web dinâmica em Next.js e TypeScript para centralização de perfis e agendamento médico via QR Codes físicos e redes sociais.
+---
+
+### 📦 Outros Projetos Relevantes
+
+* **CTRLS-Forms:** SaaS multi-tenant em **Spring Boot 3** e **React (TypeScript)** com modelagem relacional em PostgreSQL, Flyway e geração automatizada de relatórios em PDF com anexação assíncrona via API.
+* **Doctors Hub:** Frontend moderno em Next.js e TypeScript para centralização de dados de profissionais e fluxos de agendamento via QR Codes dinâmicos.
 
 ---
 

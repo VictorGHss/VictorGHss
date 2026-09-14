@@ -47,9 +47,9 @@ Plataforma corporativa desenhada para orquestrar integrações entre ERPs legado
 * **Escala Real:** Mais de **10.000 mensagens assíncronas** transacionadas (WhatsApp/Take Blip) e **+1.700 acessos físicos** via QR Codes dinâmicos em catracas.
 * **Resiliência Backend:** Controle de taxa de chamadas com **Redis**, processamento concorrente desacoplado e monitoramento automatizado de incidentes com Discord Bots (JDA).
 * 📑 **Documentação Técnica Disponível:**
-  * [Arquitetura & Fluxo de Dados](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE/blob/main/docs/ARCHITECTURE.md)[cite: 1]
-  * [Especificação OpenAPI / Swagger](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE/blob/main/docs/openapi.yaml)[cite: 1]
-  * [Relatório de Desenvolvimento & Post-Mortem](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE/blob/main/docs/RELATORIO_DESENVOLVIMENTO_E_POSTMORTEM.md)[cite: 1]
+  * [Arquitetura & Fluxo de Dados](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE/blob/main/docs/ARCHITECTURE.md)
+  * [Especificação OpenAPI / Swagger](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE/blob/main/docs/openapi.yaml)
+  * [Relatório de Desenvolvimento & Post-Mortem](https://github.com/VictorGHss/CTRLS-ITSM-SHOWCASE/blob/main/docs/RELATORIO_DESENVOLVIMENTO_E_POSTMORTEM.md)
 
 ---
 

@@ -22,10 +22,6 @@
     </a> 
   </p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Disponível_para_Oportunidades-success?style=for-the-badge&logo=target" alt="Status" />
-  </p>
-
 </div>
 
 ---
